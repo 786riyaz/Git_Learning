@@ -1,0 +1,13 @@
+Git Will Finally Make Sense After This
+https://www.youtube.com/watch?v=Ala6PHlYjmw
+
+00:00 - Intro
+00:33 - What is a commit?
+01:45 - The DAG
+03:03 - Branches
+04:13 - HEAD
+05:41 - The Staging Area — Git's waiting room
+06:28 - Checkout vs Reset vs Revert
+09:58 - Why rebase "rewrites history"
+11:51 - The Reflog — your safety net
+12:40 - Outro
